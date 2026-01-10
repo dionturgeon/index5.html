@@ -12,5 +12,5 @@ def check_prime(n):
 
 
 # Example usage
-check_prime(7)
-check_prime(10)
+check_prime(6)
+check_prime(5)
